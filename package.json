@@ -1,6 +1,6 @@
 {
   "name": "email-domain-popular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of popular email domains",
   "main": "index.js",
   "scripts": {
