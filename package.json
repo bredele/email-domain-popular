@@ -1,7 +1,7 @@
 {
-  "name": "email-providers",
+  "name": "email-domain-popular",
   "version": "1.0.0",
-  "description": " List of all major email providers and their associated online access",
+  "description": "List of popular email domains",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "email",
-    "provider",
+    "popular",
     "domain"
   ],
   "author": "Olivier Wietrich",

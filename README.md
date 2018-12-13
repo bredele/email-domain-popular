@@ -1,12 +1,12 @@
-# email-providers
+# email-domain-popular
 
-List of main email domains providers.
+List of popular email domains
 
 
 ## Installation
 
 ```shell
-npm install email-providers --save
+npm install email-domain-popular --save
 ```
 
 [![NPM](https://nodei.co/npm/email-domain.png)](https://nodei.co/npm/email-domain/)
