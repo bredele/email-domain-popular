@@ -1,0 +1,24 @@
+{
+  "name": "email-providers",
+  "version": "1.0.0",
+  "description": " List of all major email providers and their associated online access",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/email-providers.git"
+  },
+  "keywords": [
+    "email",
+    "provider",
+    "domain"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/email-providers/issues"
+  },
+  "homepage": "https://github.com/bredele/email-providers#readme"
+}
